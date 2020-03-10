@@ -6,7 +6,7 @@
     <title>Quiz</title>
     <link rel="stylesheet" type="text/css" href="../css/style.css">
 </head>
-<body>
+<body bgcolor="#4CAF50">
     <a href="quiz.php" class="comecar">Iniciar Quiz</a>
 </body>
 </html>

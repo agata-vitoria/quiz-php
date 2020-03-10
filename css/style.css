@@ -1,14 +1,55 @@
 a.comecar {
-    background-color: #4CAF50;
+    margin: 20% 45%;
+    /* background-color: #4CAF50;
+    color: white; */
+}
+
+.verificar, a.comecar {
+    background-color: white;    
+    color: #4CAF50;
     border: none;
-    color: white;
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 20% 45%;
 }
 
+.verificar {
+    background-color: white;    
+    color: #4CAF50;
+    cursor: pointer;
+    margin: 0 60px;
+}
 
+select {
+    height: 30px;
+    width: 250px;
+}
 
+.acertos {
+    text-align: center;
+    color: white;
+    font-size: 200px;
+}
+
+form {  
+    float: right;
+    padding-right: 100px;
+}
+
+.titulo {
+    float: left;
+    margin-top: 60px;;
+    border-right: 2px solid white;
+}
+
+.texto {
+    color: white;
+    font-size: 70px;
+    margin: 200px 150px;
+}
+
+.corpo {
+    margin-top: 50px;
+}
